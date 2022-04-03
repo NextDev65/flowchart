@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Runing the frontend
 
-Open up a terminal, and use the command `git clone https://github.com/fwara07/flowchart.git` to clone this repository.
+Open up a terminal, and use the command `git clone https://github.com/NextDev65/flowchart.git` to clone this repository.
 
 Next, use the `cd` command to get into the cloned folder.
 
@@ -31,7 +31,7 @@ The backend is already being hosted, but if you would like faster performance, t
 
 To install it locally, install the followig zip file:
 
-### [flowchart_backend.zip](https://github.com/fwara07/flowchart/files/7438113/flowchart_backend.zip)
+### [flowchart_backend.zip](https://github.com/NextDev65/flowchart/files/7438113/flowchart_backend.zip)
 
 After the installation, `cd` into the downloaded directory and run the following command using a command prompt:
 
