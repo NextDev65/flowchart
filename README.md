@@ -4,8 +4,6 @@ https://user-images.githubusercontent.com/72710126/139535500-499c7cd0-9777-4300-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-***PreReqs***: npm, Python 3.9
-
 ## Runing the frontend
 
 Open up a terminal, and use the command `git clone https://github.com/NextDev65/flowchart.git` to clone this repository.
@@ -35,10 +33,10 @@ To install it locally, install the followig zip file:
 
 After the installation, `cd` into the downloaded directory and run the following command using a command prompt:
 
-### `pip install pipenv`
+### `pip3.9  install pipenv`
 ### `pipenv shell`
 ### `pipenv install`
-### `python manage.py makemigeations`
+### `python manage.py makemigrations`
 ### `python manage.py migrate`
 ### `python manage.py runserver`
 
@@ -52,7 +50,7 @@ However, to make it the two work together, you must change up the code a little.
 
 ### Navigate back to the fronted folder, and follow the following steps:
 
-First, open up your preffered code editor, and navigate to `App.js`, `Sidebar.js` and `Canvas.js`.
+First, open up your preffered code editor, and navigate to `src/App.js`, `src/components/Sidebar.js` and `src/components/Canvas.js`.
 
 On each of the files, there will be a variable called `apiUrl` in the first few lines of the file.
 
