@@ -4,6 +4,8 @@ https://user-images.githubusercontent.com/72710126/139535500-499c7cd0-9777-4300-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+***PreReqs***: npm, Python 3.9
+
 ## Runing the frontend
 
 Open up a terminal, and use the command `git clone https://github.com/fwara07/flowchart.git` to clone this repository.
@@ -40,7 +42,7 @@ After the installation, `cd` into the downloaded directory and run the following
 ### `python manage.py migrate`
 ### `python manage.py runserver`
 
-**Note: Python must be installed, for the commands above to work.
+**Note: Python 3.9 must be installed, for the commands above to work.
 
 The backend should successfully be running now at the following url:
 
