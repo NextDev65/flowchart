@@ -31,7 +31,7 @@ The backend is already being hosted, but if you would like faster performance, t
 
 To install it locally, install the followig zip file:
 
-### [flowchart_backend.zip](https://github.com/NextDev65/flowchart/files/7438113/flowchart_backend.zip)
+### [flowchart_backend.zip](https://github.com/fwara07/flowchart/files/7438113/flowchart_backend.zip)
 
 After the installation, `cd` into the downloaded directory and run the following command using a command prompt:
 
